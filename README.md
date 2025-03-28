@@ -22,7 +22,7 @@ While building dashboards, we cleaned the data. Once we clean the data, we answe
 
 ## Business Questions:
 
-The below are few Sample business questions we addressed as part of this analysis. However, this is not exhaustive list, and we can add as many as analysis 
+Below are business questions we addressed as part of this analysis. However, this is not exhaustive list, and we can add as many as analysis 
 to the dashboards.
 1. How is price varying by brand/category/time/channel?
 2. Is traffic varied by day/time/channel?
