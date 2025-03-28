@@ -2,7 +2,7 @@
 
 This project involves a comprehensive analysis of Ecommerce dataset. The goal is to extract valuable insights and answer various business questions based on the dataset.The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
 
-# Business Case:
+# Business Case
 We created analytical dash boards for below themes:
 - Overview about various KPI’s
 - Pricing & Promotion
@@ -19,12 +19,6 @@ While building dashboards, we cleaned the data. Once we clean the data, we answe
 - a. Analytics Dashboard using Power BI Tool
 - b. Detailed document summarizing the insights 
 
-## About Data:
-The below data sets were provided by our client (one of leading eCommerce company). This data is about customer behavior which contains data of 
-multiple user events. The duration of the data for two months.
-1. Sales_Data_Ecommerce : The entire customer behavior data 
-2. Promotion: This is promotion data set of special promotions for that day. One product will be promoted in first page of app/website. In addition to that 
-there are many promotions running however the data is limited special promotion.
 
 ## Business Questions:
 
@@ -40,7 +34,13 @@ to the dashboards.
 Etc
 
 
-## Data Dictionary:
+
+## About Data:
+The below data sets were provided by our client (one of leading eCommerce company). This data is about customer behavior which contains data of 
+multiple user events. The duration of the data for two months.
+1. Sales_Data_Ecommerce : The entire customer behavior data 
+2. Promotion: This is promotion data set of special promotions for that day. One product will be promoted in first page of app/website. In addition to that 
+there are many promotions running however the data is limited special promotion.
 
 ### “Sales_Data_Ecommerce “ Data Set:
 - user_id: Unique id of customer
