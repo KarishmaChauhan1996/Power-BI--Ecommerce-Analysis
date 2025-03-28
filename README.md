@@ -1,7 +1,6 @@
-### Goal of the case study:
+### Overview
 
-Work with data sets using Power BI Tool. Analyze data and answer the key business questions with the help of dashboards and report 
-and derive insights. 
+This project involves a comprehensive analysis of Ecommerce dataset. The goal is to extract valuable insights and answer various business questions based on the dataset.The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
 
 ### Business Case:
 We created analytical dash boards for below themes:
