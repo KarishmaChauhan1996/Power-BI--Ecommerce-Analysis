@@ -41,7 +41,8 @@ Etc
 
 
 ## Data Dictionary:
-- “Sales_Data_Ecommerce “ Data Set:
+
+### “Sales_Data_Ecommerce “ Data Set:
 - user_id: Unique id of customer
 - event_date: Date of event
 - Day_of_Week: Day of week of the event
@@ -61,8 +62,7 @@ Etc
 - State: State
 - User_Score: Segmentation of custome
 
-## Data Dictionary:
-- “Promotions“ Data Set:
+### “Promotions“ Data Set:
 - Promotion Id: Promotion Type
 - Date: Date of promotion
 - Discount: Discount%
